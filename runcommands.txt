@@ -1,0 +1,4 @@
+cd C:\Users\user??\Desktop\path_to_project\REST_ari
+env/bin/activate
+cd rest_api_louk
+python manage.py runserver
